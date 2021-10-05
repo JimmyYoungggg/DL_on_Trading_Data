@@ -1,0 +1,801 @@
+﻿日期Date,指数代码Index Code,指数名称Index Name,指数英文名称Index Name(Eng.),成分券代码Constituent Code,成分券名称Constituent Name,成分券英文名称Constituent Name(Eng.),交易所Exchange
+2019-08-08,000906,中证800,CSI 800,600000,浦发银行,Shanghai Pudong Development Bank Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600004,白云机场,Guangzhou Baiyun International Airport Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600006,东风汽车,Dongfeng Automobile Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600008,首创股份,Beijing Capital Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600009,上海机场,Shanghai International Airport Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600010,包钢股份,Inner Mongolia Baotou Steel Union Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600011,华能国际,Huaneng Power International Inc,SHH
+2019-08-08,000906,中证800,CSI 800,600015,华夏银行,Hua Xia Bank Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600016,民生银行,China Minsheng Banking Corp Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600017,日照港,Rizhao Port Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600018,上港集团,Shanghai International Port (Group) Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600019,宝钢股份,Baoshan Iron &Steel Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600021,上海电力,Shanghai Electric Power Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600022,山东钢铁,SHANDONG IRON AND STEEL COMPANY LTD,SHH
+2019-08-08,000906,中证800,CSI 800,600023,浙能电力,"Zhejiang Zheneng Electric Power Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600025,华能水电,HuanengLancang River Hydropower Inc.,SHH
+2019-08-08,000906,中证800,CSI 800,600026,中远海能,"COSCO SHIPPING Energy Transportation Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600027,华电国际,Huadian Power International Corporation Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600028,中国石化,China Petroleum & Chemical Corporation,SHH
+2019-08-08,000906,中证800,CSI 800,600029,南方航空,China Southern Airlines Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600030,中信证券,CITIC Securities Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600031,三一重工,Sany Heavy Industry Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600036,招商银行,China Merchants Bank Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600037,歌华有线,Beijing Gehua CATV Network Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600038,中直股份,"AVIC Helicopter Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600039,四川路桥,Sichuan Road&Bridge Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600048,保利地产,"Poly Developments and Holdings Group Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600050,中国联通,China United Network Communications Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600053,九鼎投资,"Kunwu Jiuding Investment Holdings Co., Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600056,中国医药,"China Meheco Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600058,五矿发展,Minmetals Development Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600060,海信电器,Hisense Electric Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600061,国投资本,"SDIC Capital Co., Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600062,华润双鹤,"CHINA RESOURCES DOUBLE-CRANE PHARMACEUTICAL CO.,LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600064,南京高科,NANJING GAOKE COMPANY LIMITED,SHH
+2019-08-08,000906,中证800,CSI 800,600066,宇通客车,Zhengzhou Yutong Bus Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600068,葛洲坝,China Gezhouba Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600073,上海梅林,Shanghai Maling Aquarius Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600079,人福医药,"Humanwell Healthcare (Group) Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600085,同仁堂,Beijing Tongrentang Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600089,特变电工,TBEA Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600094,大名城,Greattown Holdings Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600098,广州发展,Guangzhou Development Group Incorporated,SHH
+2019-08-08,000906,中证800,CSI 800,600100,同方股份,Tsinghua Tongfang Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600104,上汽集团,SAIC Motor Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600109,国金证券,Sinolink Securities Co. Ltd.,SHH
+2019-08-08,000906,中证800,CSI 800,600111,北方稀土,"China Northern Rare Earth (Group) High-Tech Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600115,东方航空,China Eastern Airlines Corp Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600118,中国卫星,China Spacesat Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600120,浙江东方,Zhejiang Orient Holdings Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600125,铁龙物流,China Railway Tielong Container Logistics Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600126,杭钢股份,Hang Zhou Iron & Steel Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600138,中青旅,China CYTS Tours Holding Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600141,兴发集团,Hubei Xingfa Chemicals Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600143,金发科技,Kingfa Sci&Tech Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600151,航天机电,Shanghai Aerospace Automobile Electromechanical Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600153,建发股份,Xiamen C&D Inc,SHH
+2019-08-08,000906,中证800,CSI 800,600155,华创阳安,"Polaris Bay Group Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600158,中体产业,"China Sports Industry Group Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600160,巨化股份,Zhejiang Ju Hua Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600161,天坛生物,Beijing Tiantan Biological Products Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600166,福田汽车,Beiqi Foton Motor Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600167,联美控股,"Luenmei Holding Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600169,太原重工,Taiyuan Heavy Industry Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600170,上海建工,Shanghai Construction Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600171,上海贝岭,Shanghai Belling Corp Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600176,中国巨石,"CHINA JUSHI CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600177,雅戈尔,Youngor Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600179,ST安通,"Antong Holdings Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600183,生益科技,"Shengyi Technology Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600188,兖州煤业,Yanzhou Coal Mining Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600195,中牧股份,China Animal Husbandry Industry Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600196,复星医药,Shanghai Fosun Pharmaceutical (Group) Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600201,生物股份,"Jinyu Bio-Technology Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600208,新湖中宝,Xinhu Zhongbao Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600216,浙江医药,Zhejiang Medicine Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600219,南山铝业,"Shandong Nanshan Aluminium Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600221,海航控股,"Hainan Airlines Holding Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600233,圆通速递,"YTO Express Group Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600258,首旅酒店,"BTG Hotels (Group) Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600259,广晟有色,"Rising Nonferrous Metals Share Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600260,凯乐科技,"Kaile Science and Technology Co.,Ltd.Hubei",SHH
+2019-08-08,000906,中证800,CSI 800,600266,北京城建,Beijing Urban Construction Investment & Development Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600267,海正药业,Zhejiang Hisun Pharmaceutical Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600271,航天信息,"Aisino Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600276,恒瑞医药,Jiangsu Hengrui Medicine Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600277,亿利洁能,ELION CLEAN ENERGY COMPANY LIMITED,SHH
+2019-08-08,000906,中证800,CSI 800,600280,中央商场,"Nanjing Central Emporium (Group) Stocks Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600282,南钢股份,Nanjing Iron & Steel Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600291,西水股份,Xishui Strong Year Co Ltd Inner Mongolia,SHH
+2019-08-08,000906,中证800,CSI 800,600297,广汇汽车,"China Grand Automotive Services Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600298,安琪酵母,Angel Yeast Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600299,安迪苏,Bluestar Adisseo Company,SHH
+2019-08-08,000906,中证800,CSI 800,600307,酒钢宏兴,Gansu Jiu Steel Group Hongxing Iron & Steel Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600309,万华化学,"Wanhua Chemical Group Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600312,平高电气,Henan Pinggao Electric Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600315,上海家化,Shanghai Jahwa United Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600316,洪都航空,Jiangxi Hongdu Aviation Industry Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600317,营口港,Yingkou Port Liability Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600325,华发股份,Huafa Industrial Co Ltd Zhuhai,SHH
+2019-08-08,000906,中证800,CSI 800,600329,中新药业,Tianjin Zhongxin Pharmaceutical Group Corporation Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600332,白云山,GUANGZHOU BAIYUNSHAN PHARMACEUTICAL HOLDINGS COMPANY LIMITED,SHH
+2019-08-08,000906,中证800,CSI 800,600335,国机汽车,Sinomach Automobile Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600338,西藏珠峰,Tibet Summit Industry Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600339,中油工程,China Petroleum Engineering Corporation,SHH
+2019-08-08,000906,中证800,CSI 800,600340,华夏幸福,"China Fortune Land Development Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600346,恒力石化,"Hengli Petrochemical Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600348,阳泉煤业,"Yang Quan Coal Industry (Group) Co., Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600350,山东高速,Shandong Hi-speed Company Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600352,浙江龙盛,Zhejiang Longsheng Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600362,江西铜业,Jiangxi Copper Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600369,西南证券,Southwest Securities Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600372,中航电子,"CHINA AVIONICS SYSTEMS CO.,LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600373,中文传媒,Chinese Universe Publishing And Media Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600376,首开股份,"Beijing Capital Development Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600380,健康元,Joincare Pharmaceutical Group Industry Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600383,金地集团,Gemdale Corporation,SHH
+2019-08-08,000906,中证800,CSI 800,600388,龙净环保,Fujian Longking Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600390,五矿资本,Minmetals Capital Company Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600392,盛和资源,"Shenghe Resources Holding Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600393,粤泰股份,"Guangzhou Yuetai Group Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600398,海澜之家,"Heilan Home Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600406,国电南瑞,"NARI Technology Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600409,三友化工,Tangshan Sanyou Chemical Industries Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600410,华胜天成,Beijing Teamsun Technology Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600415,小商品城,Zhejiang China Commodities City Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600416,湘电股份,Xiangtan Electric Manufacturing Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600418,江淮汽车,Anhui Jianghuai Automobile Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600426,华鲁恒升,Shandong Hualu-Hengsheng Chemical Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600428,中远海特,"COSCO SHIPPING Specialized Carriers Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600435,北方导航,"North Navigation Control Technology Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600436,片仔癀,Zhangzhou Pientzehuang Pharmaceutical Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600438,通威股份,Tongwei Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600458,时代新材,Zhuzhou Times New Materials Technology Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600460,士兰微,Hangzhou Silan Microelectronics Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600466,蓝光发展,"SICHUAN LANGUANG DEVELOPMENT CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600478,科力远,"Hunan Corun New Energy Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600482,中国动力,"China Shipbuilding Industry Group Power Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600486,扬农化工,Jiangsu Yangnong Chemical Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600487,亨通光电,"Hengtong Optic-Electric Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600489,中金黄金,Zhongjin Gold Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600497,驰宏锌锗,Yunnan Chihong Zinc&Germanium Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600498,烽火通信,Fiberhome Telecommunication Technologies Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600499,科达洁能,"Keda Clean Energy Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600500,中化国际,Sinochem International Corp,SHH
+2019-08-08,000906,中证800,CSI 800,600507,方大特钢,"Fangda Special Steel Technology Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600511,国药股份,China National Medicines Corp Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600515,海航基础,"Hainan HNA Infrastructure Investment Group Co., LTD",SHH
+2019-08-08,000906,中证800,CSI 800,600516,方大炭素,"Fangda Carbon New Material Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600519,贵州茅台,Kweichow Moutai Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600521,华海药业,Zhejiang Huahai Pharmaceutical Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600522,中天科技,Jiangsu Zhongtian Technologies Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600525,长园集团,Changyuan Group Ltd.,SHH
+2019-08-08,000906,中证800,CSI 800,600528,中铁工业,China Railway Hi-tech Industry Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600535,天士力,"TASLY PHARMACEUTICAL GROUP CO.,LTD",SHH
+2019-08-08,000906,中证800,CSI 800,600536,中国软件,China National Software & Service Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600545,卓郎智能,Saurer Intelligent Technology Co. Ltd.,SHH
+2019-08-08,000906,中证800,CSI 800,600547,山东黄金,Shandong Gold-Mining Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600549,厦门钨业,Xiamen Tungsten Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600557,康缘药业,Jiangsu Kanion Pharmaceutical Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600563,法拉电子,"Xiamen Faratronic Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600565,迪马股份,Chongqing Dima Industry Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600566,济川药业,"HUBEI JUMPCAN PHARMACEUTICAL CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600567,山鹰纸业,Anhui Shan Ying Paper Industry Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600570,恒生电子,Hundsun Technologies Inc.,SHH
+2019-08-08,000906,中证800,CSI 800,600572,康恩贝,Zhejiang Conba Pharmaceutical Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600575,皖江物流,"Anhui Wanjiang Logistics (Group) Co., Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600580,卧龙电驱,"Wolong Electric Group Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600582,天地科技,Tiandi Science & Technology Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600583,海油工程,Offshore Oil Engineering Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600584,长电科技,Jiangsu Changjiang Electronics Technology Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600585,海螺水泥,Anhui Conch Cement Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600588,用友网络,"Yonyou Network Technology Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600597,光明乳业,Bright Dairy & Food Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600598,北大荒,Heilongjiang Agriculture Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600606,绿地控股,Greenland Holdings Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600611,大众交通,Dazhong Transportation (Group) Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600623,华谊集团,Shanghai Huayi Group Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600633,浙数文化,"Zhe Jiang Daily Digital Culture Group Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600637,东方明珠,"Shanghai Oriental Pearl Media Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600639,浦东金桥,Shanghai Jinqiao Export Processing Zone Development Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600640,号百控股,"Besttone Holding Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600642,申能股份,Shenergy Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600643,爱建集团,"SHANGHAI AJ GROUP CO.,LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600645,中源协和,"ZHONGYUAN UNION CELL & GENE ENGINEERING CORP., LTD",SHH
+2019-08-08,000906,中证800,CSI 800,600648,外高桥,"SHANGHAI WAIGAOQIAO FREE TRADE ZONE GROUP CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600649,城投控股,"Shanghai Chengtou Holding Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600657,信达地产,"Cinda Real Estate Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600660,福耀玻璃,"Fuyao Glass Industry Group Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600663,陆家嘴,Shanghai Lujiazui Finance and Trade Zone Development Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600664,哈药股份,Harbin Pharmaceutical Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600673,东阳光,"GUANGDONG HEC TECHNOLOGY HOLDING CO., LTD",SHH
+2019-08-08,000906,中证800,CSI 800,600674,川投能源,Sichuan Chuantou Energy Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600688,上海石化,Sinopec Shanghai Petrochemical Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600690,海尔智家,"Haier Smart Home Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600694,大商股份,Dashang Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600699,均胜电子,Ningbo Joyson Electronic Corp.,SHH
+2019-08-08,000906,中证800,CSI 800,600703,三安光电,"Sanan Optoelectronics Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600704,物产中大,Zhejiang Material Industrial Zhongda Yuantong Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600705,中航资本,"AVIC CAPITAL CO.,LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600707,彩虹股份,Irico Display Devices Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600717,天津港,Tianjin Port Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600718,东软集团,Neusoft Corporation,SHH
+2019-08-08,000906,中证800,CSI 800,600729,重庆百货,Chongqing Department Store Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600733,北汽蓝谷,"BAIC BluePark New Energy Technology Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600737,中粮糖业,"COFCO TUNHE SUGAR CO.,LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600739,辽宁成大,Liaoning Cheng Da Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600741,华域汽车,HUAYU Automotive Systems Company Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600745,闻泰科技,"Wingtech Technology Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600748,上实发展,Shanghai Industrial Development Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600750,江中药业,"Jiangzhong Pharmaceutical Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600751,海航科技,"HNA Technology Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600754,锦江股份,Shanghai Jinjiang International Hotels Development Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600755,厦门国贸,Xiamen International Trade Group Corp Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600757,长江传媒,"Changjiang Publishing & Media Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600759,洲际油气,Geo-Jade Petroleum Corporation,SHH
+2019-08-08,000906,中证800,CSI 800,600760,中航沈飞,AVIC SHENYANG AIRCRAFT COMPANY LIMITED,SHH
+2019-08-08,000906,中证800,CSI 800,600763,通策医疗,"Top Choice Medical Investment Co.,Inc.",SHH
+2019-08-08,000906,中证800,CSI 800,600765,中航重机,Avic Heavy Machinery Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600770,综艺股份,Jiangsu Zongyi Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600777,新潮能源,XINCHAO ENERGY Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600779,水井坊,"Sichuan Swellfun Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600782,新钢股份,"Xinyu Iron & Steel Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600787,中储股份,"CMST Development Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600795,国电电力,GD Power Development Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600801,华新水泥,Huaxin Cement Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600804,鹏博士,"DR. PENG TELECOM&MEDIA GROUP CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600808,马钢股份,Maanshan Iron and Steel Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600809,山西汾酒,Shanxi Xinghuacun Fen Wine Factory Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600811,东方集团,Orient Group Incorporation,SHH
+2019-08-08,000906,中证800,CSI 800,600816,安信信托,"Anxin Trust Co., Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600820,隧道股份,Shanghai Tunnel Engineering Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600823,世茂股份,Shanghai Shi Mao Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600827,百联股份,"Shanghai Bailian Group Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600835,上海机电,Shanghai Mechanical & Electrical Industry Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600837,海通证券,Haitong Securities Company Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600839,四川长虹,Sichuan Changhong Electric Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600845,宝信软件,Shanghai Baosight Software Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600848,上海临港,Shanghai Lingang Holdings Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600859,王府井,"Wangfujing Group Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600862,中航高科,"Avic Aviation High-Technology Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600863,内蒙华电,Inner Mongolia Mengdian Huaneng Thermal Power Corp Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600867,通化东宝,"Tonghua Dongbao Pharmaceutical Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600869,智慧能源,"Far East Smarter Energy Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600872,中炬高新,"Jonjee Hi-Tech Industrial and Commercial Holding Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600874,创业环保,Tianjin Capital Environmental Protection Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600875,东方电气,Dongfang Electric Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600879,航天电子,"China Aerospace Times Electronics Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600881,亚泰集团,Jilin Yatai (Group) Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600884,杉杉股份,Ningbo Shanshan Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600885,宏发股份,"Hongfa Technology Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600886,国投电力,"SDIC Power Holdings Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600887,伊利股份,Inner Mongolia Yili Industrial Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600893,航发动力,AVIC AVIATION ENGINE CORPORATION PLC.,SHH
+2019-08-08,000906,中证800,CSI 800,600895,张江高科,Shanghai Zhangjiang Hi-tech Park Development Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600900,长江电力,China Yangtze Power Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600901,江苏租赁,"Jiangsu Financial Leasing Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600903,贵州燃气,Guizhou Gas Group Corporation Ltd.,SHH
+2019-08-08,000906,中证800,CSI 800,600908,无锡银行,"Wuxi Rural Commercial Bank Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600909,华安证券,"HUAAN SECURITIES CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600917,重庆燃气,Chongqing Gas Group Corporation Ltd.,SHH
+2019-08-08,000906,中证800,CSI 800,600919,江苏银行,"Bank of Jiangsu Co., Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600926,杭州银行,"BANK OF HANGZHOU CO., LTD",SHH
+2019-08-08,000906,中证800,CSI 800,600939,重庆建工,"Chongqing Construction Engineering Group Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600958,东方证券,ORIENT SECURITIES COMPANY LIMITED,SHH
+2019-08-08,000906,中证800,CSI 800,600959,江苏有线,Jiangsu Broadcasting Cable Information Network Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,600967,内蒙一机,"Inner Mongolia First Machinery Group Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600970,中材国际,Sinoma International Engineering Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600971,恒源煤电,Anhui Hengyuan Coal Industry and Electricity Power Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600977,中国电影,"CHINA FILM CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,600978,宜华生活,"Yihua Lifestyle Technology Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600985,淮北矿业,"Huaibei Mining Holdings Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600993,马应龙,"Mayinglong Pharmaceutical Group Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,600996,贵广网络,"Guizhou Broadcasting & TV Information Network Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,600998,九州通,Jointown Pharmaceutical Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,600999,招商证券,China Merchants Securities Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601000,唐山港,Tangshan Port Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601001,大同煤业,"Datong Coal Industry Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601003,柳钢股份,Liuzhou Iron & Steel Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601005,重庆钢铁,Chongqing Iron & Steel Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601006,大秦铁路,Daqin Railway Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601009,南京银行,Bank of Nanjing Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601012,隆基股份,"Longi Green Energy Technology Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601016,节能风电,CECEP Wind-Power Corporation,SHH
+2019-08-08,000906,中证800,CSI 800,601018,宁波港,Ningbo Port Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601019,山东出版,"Shandong Publishing&Media Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,601021,春秋航空,"Spring Airlines Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601066,中信建投,"China Securities Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601068,中铝国际,China Aluminum International Engineering Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601088,中国神华,China Shenhua Energy Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601098,中南传媒,China South Publishing & Media Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601100,恒立液压,"Jiangsu Hengli Hydraulic CO., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601106,中国一重,China First Heavy Industries Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601108,财通证券,"CAITONG SECURITIES CO.,LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,601111,中国国航,Air China Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601117,中国化学,China National Chemical Engineering Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601118,海南橡胶,China Hainan Rubber Industry Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601127,小康股份,"Chongqing Sokon Industry Group Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,601128,常熟银行,"Jiangsu Changshu Rural Commercial Bank Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601138,工业富联,"Foxconn Industrial Internet Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601139,深圳燃气,Shenzhen Gas Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601155,新城控股,"Future Land Holdings Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601162,天风证券,"TIANFENG SECURITIES CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,601166,兴业银行,Industrial Bank,SHH
+2019-08-08,000906,中证800,CSI 800,601168,西部矿业,Western Mining Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601169,北京银行,Bank of Beijing Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601179,中国西电,China XD Electric Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601186,中国铁建,China Railway Construction Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601198,东兴证券,"DONGXING SECURITIES CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,601200,上海环境,"Shanghai Environment Group Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601211,国泰君安,"Guotai Junan Securities Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601212,白银有色,"Baiyin Nonferrous Group Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601216,君正集团,"Inner Mongolia Junzheng Energy & Chemical Group Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601225,陕西煤业,Shaanxi Coal Industry Company Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601228,广州港,GUANGZHOU PORT COMPANY LIMITED,SHH
+2019-08-08,000906,中证800,CSI 800,601229,上海银行,"Bank of Shanghai Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601231,环旭电子,"Universal Scientific Industrial (Shanghai) Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601238,广汽集团,"Guangzhou Automobile Group Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601288,农业银行,Agricultural Bank of China Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601298,青岛港,"Qingdao Port International Co., Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,601311,骆驼股份,Camel Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601318,中国平安,Ping An Insurance (Group) Company of China Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601319,中国人保,The People's Insurance Company (Group) of China Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601326,秦港股份,QINHUANGDAO PORT COMPANY LIMITED,SHH
+2019-08-08,000906,中证800,CSI 800,601328,交通银行,Bank of Communications Co LTD,SHH
+2019-08-08,000906,中证800,CSI 800,601333,广深铁路,Guangshen Railway Company Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601336,新华保险,New China Life Insurance Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601360,三六零,360 Security Technology Inc.,SHH
+2019-08-08,000906,中证800,CSI 800,601377,兴业证券,Industrial Securities Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601390,中国中铁,China Railway Group Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601398,工商银行,Industrial and Commercial Bank of China Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601555,东吴证券,Soochow Securities Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601577,长沙银行,"BANK OF CHANGSHA CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,601600,中国铝业,Aluminum Corporation of China Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601601,中国太保,China Pacific Insurance (Group) Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601607,上海医药,"Shanghai Pharmaceuticals Holding Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,601608,中信重工,"CITIC HEAVY INDUSTRIES CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,601611,中国核建,China Nuclear Engineering Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601615,明阳智能,MingYangSmartEnergyGroupLimited,SHH
+2019-08-08,000906,中证800,CSI 800,601618,中国中冶,Metallurgical Corporation of China Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601628,中国人寿,China Life Insurance Company Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601633,长城汽车,Great Wall Motor Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601668,中国建筑,China State Construction Engineering Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601669,中国电建,"Power Construction Corporation of China,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,601678,滨化股份,Befar Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601688,华泰证券,Huatai Securities Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601689,拓普集团,"Ningbo Tuopu Group Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601699,潞安环能,Shanxi Lu'an Environmental Energy Development Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601717,郑煤机,Zhengzhou Coal Mining Machinery Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601718,际华集团,Jihua Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601727,上海电气,Shanghai Electric Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601766,中国中车,CRRC Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601777,力帆股份,Lifan Industry (Group) Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601788,光大证券,Everbright Securities Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601800,中国交建,China Communications Construction Company Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601801,皖新传媒,Anhui Xinhua Media Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601808,中海油服,China Oilfield Services Limited,SHH
+2019-08-08,000906,中证800,CSI 800,601811,新华文轩,"Xinhua Winshare Publishing and Media Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601818,光大银行,China Everbright Bank Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601828,美凯龙,Red Star Macalline Group Corporation Ltd.,SHH
+2019-08-08,000906,中证800,CSI 800,601838,成都银行,"BANK OF CHENGDU CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,601857,中国石油,PetroChina Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601866,中远海发,"COSCO SHIPPING Development Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601869,长飞光纤,Yangtze Optical Fibre and Cable Joint Stock Limited Company,SHH
+2019-08-08,000906,中证800,CSI 800,601872,招商轮船,"China Merchants Energy Shipping Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601877,正泰电器,Zhejiang Chint Electrics Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601878,浙商证券,"ZHESHANG SECURITIES CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,601880,大连港,Dalian Port(PDA) Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601881,中国银河,"China Galaxy Securities Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601888,中国国旅,China International Travel Service Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601898,中煤能源,China Coal Energy Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601899,紫金矿业,Zijin Mining Group Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601901,方正证券,Founder Securities Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601919,中远海控,"COSCO SHIPPING Holdings Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601928,凤凰传媒,Jiangsu Phoenix Publishing & Media Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601933,永辉超市,Yonghui Superstores Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601939,建设银行,China Construction Bank,SHH
+2019-08-08,000906,中证800,CSI 800,601958,金钼股份,Jinduicheng Molybdenum Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601966,玲珑轮胎,"Shandong Linglong Tyre Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601969,海南矿业,"Hainan Mining Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601985,中国核电,"China National Nuclear Power Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601988,中国银行,Bank of China Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601989,中国重工,China Shipbuilding Industry Co Ltd,SHH
+2019-08-08,000906,中证800,CSI 800,601992,金隅集团,BBMG Corporation,SHH
+2019-08-08,000906,中证800,CSI 800,601997,贵阳银行,"Bank of Guiyang Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,601998,中信银行,China Citic Bank Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,603000,人民网,"People.cn CO.,LTD",SHH
+2019-08-08,000906,中证800,CSI 800,603019,中科曙光,"Dawning Information Industry Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603025,大豪科技,Beijing Dahao Technology Corporation Limited,SHH
+2019-08-08,000906,中证800,CSI 800,603056,德邦股份,"DEPPON LOGISTICS Co., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,603077,和邦生物,"Sichuan Hebang Biotechnology Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603156,养元饮品,"Hebei Yangyuan ZhiHui Beverage Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603160,汇顶科技,"Shenzhen Huiding Technology Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603198,迎驾贡酒,"ANHUI YINGJIA DISTILLERY CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,603225,新凤鸣,"Xinfengming Group Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603228,景旺电子,"Shenzhen Kinwong Electronic Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603233,大参林,"DaShenLin Pharmaceutical Group Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603259,药明康德,"WuXi AppTec Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603260,合盛硅业,"HOSHINE SILICON INDUSTRY CO.,LTD",SHH
+2019-08-08,000906,中证800,CSI 800,603288,海天味业,Foshan Haitian Flavouring and Food Company Ltd.,SHH
+2019-08-08,000906,中证800,CSI 800,603328,依顿电子,"Guangdong Ellington Electronics Technology Co., Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,603355,莱克电气,"Kingclean Electric Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603369,今世缘,"Jiangsu King's Luck Brewery Joint-Stock Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603377,东方时尚,"Eastern Pioneer Driving School Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603444,吉比特,"G-bits Network Technology(Xiamen)Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603486,科沃斯,"Ecovacs Robotics Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603501,韦尔股份,"Will Semiconductor CO.,Ltd. Shanghai",SHH
+2019-08-08,000906,中证800,CSI 800,603515,欧普照明,"Opple Lighting Co., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,603517,绝味食品,"Juewei Food Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603556,海兴电力,"Hexing Electrical Co., Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,603568,伟明环保,"ZHEJIANG WEIMING ENVIRONMENT PROTECTION CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,603569,长久物流,Beijing Changjiu Logistics Corp.,SHH
+2019-08-08,000906,中证800,CSI 800,603650,彤程新材,"Red Avenue New Materials Group Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603659,璞泰来,"Shanghai Putailai New Energy Technology Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603712,七一二,"Tianjin 712 Communication & Broadcasting Co.,Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,603766,隆鑫通用,"Loncin Motor Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603799,华友钴业,"ZHEJIANG HUAYOU COBALT CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,603806,福斯特,"HANGZHOU FIRST PV MATERIAL Co., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,603816,顾家家居,"Jason Furniture (Hangzhou) Co.,Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603833,欧派家居,Oppein Home Group Inc.,SHH
+2019-08-08,000906,中证800,CSI 800,603858,步长制药,"SHANDONG BUCHANG PHARMACEUTICALS CO., LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,603866,桃李面包,"Toly Bread Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603868,飞科电器,"Shanghai Flyco Electrical Appliance Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603877,太平鸟,"Ningbo Peacebird Fashion Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603883,老百姓,Laobaixing Pharmacy Chain Joint Stock Company,SHH
+2019-08-08,000906,中证800,CSI 800,603885,吉祥航空,"JUNEYAO AIRLINES Co., Ltd",SHH
+2019-08-08,000906,中证800,CSI 800,603888,新华网,"XINHUANETCO.,LTD.",SHH
+2019-08-08,000906,中证800,CSI 800,603939,益丰药房,"Yifeng Pharmacy Chain Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,603986,兆易创新,GigaDevice Semiconductor (Beijing) Inc.,SHH
+2019-08-08,000906,中证800,CSI 800,603993,洛阳钼业,"China Molybdenum Co., Ltd.",SHH
+2019-08-08,000906,中证800,CSI 800,000001,平安银行,"Ping An Bank Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000002,万科Ａ,China Vanke Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000006,深振业Ａ,Shenzhen Zhenye (Group) Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000008,神州高铁,"China High-Speed Railway Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000009,中国宝安,"China Baoan Group Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000012,南  玻Ａ,CSG Holding Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000021,深科技,"Shenzhen Kaifa Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000025,特力A,Shenzhen Tellus Holding Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000027,深圳能源,Shenzhen Energy Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000028,国药一致,China National Accord Medicines Corporation Ltd.,SHZ
+2019-08-08,000906,中证800,CSI 800,000031,大悦城,"Grandjoy Holdings Group Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000039,中集集团,China International Marine Containers (Group) Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000060,中金岭南,Shenzhen Zhongjin Lingnan Nonfemet Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000061,农 产 品,Shenzhen Agricultural Products Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000062,深圳华强,Shenzhen Huaqiang Industry Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000063,中兴通讯,ZTE Corporation,SHZ
+2019-08-08,000906,中证800,CSI 800,000066,中国长城,"CHINA GREATWALL TECHNOLOGY GROUP CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,000069,华侨城Ａ,Shenzhen Overseas Chinese Town Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000078,海王生物,Shenzhen Neptunus Bioengineering Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000089,深圳机场,Shenzhen Airport Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000090,天健集团,"SHENZHEN TAGEN GROUP CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,000100,TCL集团,TCL Corporation,SHZ
+2019-08-08,000906,中证800,CSI 800,000156,华数传媒,"WASU MEDIA HOLDING CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,000157,中联重科,Zoomlion Heavy Industry Science & Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000158,常山北明,"Shijiazhuang ChangShan BeiMing Technology Co., Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,000166,申万宏源,"Shenwan Hongyuan Group CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,000301,东方盛虹,"Jiangsu Eastern Shenghong Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000333,美的集团,"Midea Group CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,000338,潍柴动力,Wei Chai Power Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000400,许继电气,XJ Electric Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000401,冀东水泥,Tangshan Jidong Cement Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000402,金 融 街,Financial Street Holding Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000408,藏格控股,ZANGGE HOLDING COMPANY LIMITED,SHZ
+2019-08-08,000906,中证800,CSI 800,000413,东旭光电,"Dongxu Optoelectronic Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000415,渤海租赁,"Bohai Leasing Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000423,东阿阿胶,Shandong Dong-Ee Jiao Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000425,徐工机械,XCMG Construction Machinery Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000426,兴业矿业,"INNER MONGOLIA XINGYE MINING CO.,LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,000488,晨鸣纸业,Shandong Chenming Paper Holdings Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000501,鄂武商Ａ,Wuhan Department Store Stock Co Ltd (Group),SHZ
+2019-08-08,000906,中证800,CSI 800,000513,丽珠集团,Livzon Pharmaceutical Group Inc,SHZ
+2019-08-08,000906,中证800,CSI 800,000519,中兵红箭,"NORTH INDUSTRIES GROUP RED ARROW CO.,LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,000528,柳工,Guangxi Liugong Machinery Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000536,华映科技,CPT Technology (Group) Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000537,广宇发展,Tianjin Guangyu Development Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000538,云南白药,"Yunnan Baiyao Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000541,佛山照明,Foshan Electrical and Lighting Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000543,皖能电力,An Hui Wenergy Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000547,航天发展,"Addsino Co., Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,000552,靖远煤电,Gansu Jingyuan Coal Industry & Electricity Power Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000553,安道麦A,ADAMA Ltd.,SHZ
+2019-08-08,000906,中证800,CSI 800,000559,万向钱潮,Wanxiang Qianchao Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000563,陕国投Ａ,"Shaanxi International Trust Co.,Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,000564,供销大集,"CCOOP GROUP CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,000568,泸州老窖,Luzhou Lao Jiao Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000581,威孚高科,Weifu High-Technology Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000587,金洲慈航,"JINZHOU CIHANG GROUP CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,000596,古井贡酒,Anhui Gujing Distillery Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000598,兴蓉环境,"Chengdu Xingrong Environment Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000600,建投能源,Hebei Jointo Energy Investment Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000623,吉林敖东,"Jilin Aodong Pharmaceutical Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000625,长安汽车,Chongqing Changan Automobile Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000627,天茂集团,Hubei Biocause Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000629,攀钢钒钛,"Pangang Group Vanadium Titanium & Resources Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000630,铜陵有色,Tongling Nonferrous Metals Group Co. Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000636,风华高科,Guangdong Fenghua Advanced Technology (Holding) Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000651,格力电器,"Gree Electric Appliances,Inc. of Zhuhai",SHZ
+2019-08-08,000906,中证800,CSI 800,000656,金科股份,"Jinke Property Group Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000661,长春高新,Chang Chun High and New Technology Industry (Group) Inc.,SHZ
+2019-08-08,000906,中证800,CSI 800,000671,阳光城,"Sunshine City Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000681,视觉中国,"VISUAL CHINA GROUP CO.,LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,000685,中山公用,Zhongshan Public Utilities Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000686,东北证券,Northeast Securities Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000690,宝新能源,"Guangdong Baolihua New Energy Stock Co.,Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,000703,恒逸石化,Hengyi Petrochemical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000709,河钢股份,HESTEEL COMPANY LIMITED,SHZ
+2019-08-08,000906,中证800,CSI 800,000712,锦龙股份,Guangdong Golden Dragon Development Inc.,SHZ
+2019-08-08,000906,中证800,CSI 800,000717,韶钢松山,SGIS Songshan Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000718,苏宁环球,Suning Universal Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000723,美锦能源,"Shanxi Meijin Energy Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000725,京东方A,BOE Technology Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000727,华东科技,Nanjing Huadong Electronics Information & Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000728,国元证券,Guoyuan Securities Company Limited,SHZ
+2019-08-08,000906,中证800,CSI 800,000729,燕京啤酒,Beijing Yanjing Brewery Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000732,泰禾集团,Thaihot Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000738,航发控制,"AECC AERO-ENGINE CONTROL CO.,LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,000750,国海证券,"Sealand Securities Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000758,中色股份,China Nonferrous Metal Industry's Foreign Engineering & Construction Corp,SHZ
+2019-08-08,000906,中证800,CSI 800,000761,本钢板材,Bengang Steel Plates Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000766,通化金马,Tonghua Golden-Horse Pharmaceutical Industry Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000768,中航飞机,"Avic Aircraft Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000776,广发证券,"GF Securities Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000778,新兴铸管,Xinxing Ductile Iron Pipes Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000783,长江证券,Changjiang Securities Company Limited,SHZ
+2019-08-08,000906,中证800,CSI 800,000786,北新建材,Beijing New Building Materials Public Ltd Co,SHZ
+2019-08-08,000906,中证800,CSI 800,000807,云铝股份,Yunnan Aluminium Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000813,德展健康,Xinjiang Tianshan Wool Tex Stock Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000826,启迪环境,"TUS ENVIRONMENTAL SCIENCE AND TECHNOLOGY DEVELOPMENT Co., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,000829,天音控股,"Telling Telecommunication Holding Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000830,鲁西化工,"Luxi Chemical Group Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000848,承德露露,He Bei Cheng De Lolo Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000858,五 粮 液,Wuliangye Yibin Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000860,顺鑫农业,Beijing Shunxin Agriculture Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000869,张  裕Ａ,Yantai Changyu Pioneer Wine Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000876,新 希 望,"NEW HOPE LIUHE CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,000877,天山股份,Xinjiang Tianshan Cement Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000878,云南铜业,Yunnan Copper Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000883,湖北能源,Hubei Energy Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000887,中鼎股份,"Anhui Zhongding Sealing Parts Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000895,双汇发展,Henan Shuanghui Investment & Development Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000898,鞍钢股份,Angang Steel Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000926,福星股份,Hubei Fuxing Science And Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000930,中粮生化,Cofco Biochemical (Anhui) Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000932,华菱钢铁,Hunan Valin Steel Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000937,冀中能源,Jizhong Energy Resources Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000938,紫光股份,"Unisplendour Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000959,首钢股份,Beijing Shougang Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000960,锡业股份,Yunnan Tin Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000961,中南建设,"Jiangsu Zhongnan Construction Group Co.,Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,000963,华东医药,Huadong Medicine Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000970,中科三环,Beijing Zhong Ke San Huan High-Tech Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000975,银泰资源,"Yintai Resources Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000980,众泰汽车,"ZOTYE AUTOMOBILE CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,000983,西山煤电,Shanxi Xishan Coal And Electricity Power Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000987,越秀金控,"Guangzhou Yuexiu Financial Holdings Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000988,华工科技,Huagong Tech Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000990,诚志股份,Chengzhi Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000997,新 大 陆,"Newland Digital Technology Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,000998,隆平高科,Yuan Longping High-tech Agriculture Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,000999,华润三九,China Resources Sanjiu Medical & Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,001979,招商蛇口,"CHINA MERCHANTS SHEKOU INDUSTRIAL ZONE HOLDINGS CO.,LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,002001,新和成,Zhejiang NHU Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002002,鸿达兴业,"Hongda Xingye Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002004,华邦健康,"HUAPONT LIFE SCIENCES CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002007,华兰生物,Hualan Biological Engineering INC,SHZ
+2019-08-08,000906,中证800,CSI 800,002008,大族激光,"Han's Laser Technology Industry Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002010,传化智联,"Transfar Zhilian Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002019,亿帆医药,"YIFAN PHARMACEUTICAL CO.,LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,002024,苏宁易购,"SUNING.COM CO.,LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002027,分众传媒,"Focus Media Information Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002028,思源电气,"Siyuan Electric Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002030,达安基因,Da An Gene Co Ltd of Sun Yat-Sen University,SHZ
+2019-08-08,000906,中证800,CSI 800,002032,苏泊尔,"Zhejiang Supor Co.,Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002038,双鹭药业,Beijing SL Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002044,美年健康,"Meinian Onehealth Healthcare Holdings Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002048,宁波华翔,Ningbo Huaxiang Electronic Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002049,紫光国微,"Unigroup Guoxin Microelectronics Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002050,三花智控,"ZHEJIANG SANHUA INTELLIGENT CONTROLS CO.,LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002051,中工国际,China CAMC Engineering Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002056,横店东磁,Hengdian Group DMEGC Magnetics Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002064,华峰氨纶,Zhejiang Huafeng Spandex Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002065,东华软件,"DHC Software Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002074,国轩高科,"GUOXUAN HIGH-TECH CO.,LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002075,沙钢股份,Jiangsu Shagang Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002078,太阳纸业,Shan Dong Sun Paper Industry Joint Stock Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002081,金螳螂,Suzhou Gold Mantis Construction Decoration Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002085,万丰奥威,"Zhejiang Wanfeng Auto Wheel Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002092,中泰化学,"Xinjiang Zhongtai Chemical Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002093,国脉科技,"Guomai Technologies,Inc.",SHZ
+2019-08-08,000906,中证800,CSI 800,002110,三钢闽光,"Sansteel Minguang Co.,Ltd.Fujian",SHZ
+2019-08-08,000906,中证800,CSI 800,002118,紫鑫药业,Jilin Zixin Pharmaceutical Industrial Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002120,韵达股份,"YUNDA Holding CO., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002127,南极电商,"NanJi E-Commerce Co., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,002128,露天煤业,Huolinhe Opencut Coal Industry Corporation Limited of Innermongolia,SHZ
+2019-08-08,000906,中证800,CSI 800,002129,中环股份,"Tianjin Zhonghuan Semiconductor Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002131,利欧股份,"LEO GROUP CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002142,宁波银行,Bank of Ningbo Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002146,荣盛发展,Risesun Real Estate Development Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002152,广电运通,GRG Banking Equipment Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002153,石基信息,Beijing Shiji Information Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002155,湖南黄金,Hunan Gold Corporation Limited,SHZ
+2019-08-08,000906,中证800,CSI 800,002157,正邦科技,Jiangxi Zhengbang Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002174,游族网络,"YOUZU Interactive CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002176,江特电机,Jiangxi Special Electric Motor Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002179,中航光电,"AVIC Jonhon Optronic Technology Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002183,怡亚通,Eternal Asia Supply Chain Management Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002191,劲嘉股份,"SHENZHEN JINJIA GROUP CO.,LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002195,二三四五,"Shanghai 2345 Network Holding Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002202,金风科技,Xinjiang Goldwind Science & Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002212,南洋股份,Nanyang Topsec Technologies Group Inc.,SHZ
+2019-08-08,000906,中证800,CSI 800,002217,合力泰,"Holitech Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002221,东华能源,Oriental Energy Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002223,鱼跃医疗,Jiangsu Yuyue Medical Equipment & Supply Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002230,科大讯飞,"Iflytek Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002233,塔牌集团,Guangdong Tapai Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002236,大华股份,Zhejiang Dahua Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002241,歌尔股份,GoerTek Inc,SHZ
+2019-08-08,000906,中证800,CSI 800,002242,九阳股份,Joyoung Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002244,滨江集团,Hangzhou Binjiang Real Estate Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002249,大洋电机,Zhongshan Broad-ocean Motor Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002250,联化科技,Lianhe Chemical Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002251,步步高,Better Life Commercial Chain Share Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002252,上海莱士,Shanghai RAAS Blood Products Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002254,泰和新材,Yantai Tayho Advanced Materials Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002266,浙富控股,"ZHEFU HOLDING GROUP CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,002268,卫士通,Westone Information Industry Inc,SHZ
+2019-08-08,000906,中证800,CSI 800,002271,东方雨虹,Beijing Oriental Yuhong Waterproof Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002273,水晶光电,"Zhejiang Crystal-Optech Co., Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002280,联络互动,"Hangzhou Liaison Interactive Information Technology Co., Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002281,光迅科技,Accelink Technologies Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002285,世联行,SHENZHEN WORLDUNION GROUP INCORPORATED,SHZ
+2019-08-08,000906,中证800,CSI 800,002294,信立泰,Shenzhen Salubris Pharmaceuticals Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002299,圣农发展,Fujian Sunner Development Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002302,西部建设,"China West Construction Group Co., ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002304,洋河股份,Jiangsu Yanghe Brewery Joint-Stock Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002310,东方园林,Beijing Orient Landscape Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002311,海大集团,Guangdong Haid Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002317,众生药业,Guangdong Zhongsheng Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002332,仙琚制药,Zhejiang Xianju Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002340,格林美,Shenzhen Green Eco-manufacture Hi-tech Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002344,海宁皮城,Haining China Leather Market Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002352,顺丰控股,"S.F. Holding Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002353,杰瑞股份,Yantai Jereh Oilfield Services Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002358,森源电气,Henan Senyuan Electric Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002366,台海核电,"Taihai Manoir Nuclear Equipment Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002368,太极股份,Taiji Computer Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002371,北方华创,"NAURA Technology Group Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002372,伟星新材,Zhejiang Weixing New Building Materials Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002373,千方科技,Surekam Corporation,SHZ
+2019-08-08,000906,中证800,CSI 800,002375,亚厦股份,Zhejiang Yasha Decoration Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002382,蓝帆医疗,"BLUE SAIL MEDICAL CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002384,东山精密,Suzhou Dongshan Precision Manufacturing Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002385,大北农,Beijing Dabeinong Technology Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002387,维信诺,Visionox Technology Inc.,SHZ
+2019-08-08,000906,中证800,CSI 800,002390,信邦制药,Guizhou Xinbang Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002399,海普瑞,Shenzhen Hepalink Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002405,四维图新,NavInfo Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002407,多氟多,Do-Fluoride Chemicals Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002408,齐翔腾达,Zibo Qixiang Tengda Chemical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002410,广联达,Glodon Software Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002411,延安必康,YanAn Bicon Pharmaceutical Listed Company,SHZ
+2019-08-08,000906,中证800,CSI 800,002414,高德红外,Wuhan Guide Infrared Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002415,海康威视,Hangzhou Hikvision Digital Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002416,爱施德,Shenzhen Aisidi Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002419,天虹股份,Rainbow Department Store Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002422,科伦药业,Sichuan Kelun Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002424,贵州百灵,Guizhou Bailing Group Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002426,胜利精密,Suzhou Victory Precision Manufacture Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002431,棕榈股份,"PALM ECO-TOWN DEVELOPMENT CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002434,万里扬,"Zhejiang Wanliyang Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002437,誉衡药业,Harbin Gloria Pharmaceuticals Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002439,启明星辰,Beijing Venustech Inc.,SHZ
+2019-08-08,000906,中证800,CSI 800,002440,闰土股份,Zhejiang Runtu Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002444,巨星科技,Hangzhou Great Star Industrial Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002456,欧菲光,"OFILM Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002460,赣锋锂业,Ganfeng Lithium Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002463,沪电股份,Wus Printed Circuit (Kunshan) Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002465,海格通信,Guangzhou Haige Communications Group Incorporated Company,SHZ
+2019-08-08,000906,中证800,CSI 800,002466,天齐锂业,"Tianqi Lithium Industries, Inc.",SHZ
+2019-08-08,000906,中证800,CSI 800,002468,申通快递,"STO Express Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002470,金正大,"Kingenta Ecological Engineering Group Co., Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002475,立讯精密,"Luxshare Precision Industry Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002482,广田集团,"SHENZHEN GRANDLAND GROUP CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002489,浙江永强,Yotrio Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002491,通鼎互联,"TONGDING INTERCONNECTION INFORMATION CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002493,荣盛石化,Rongsheng Petro Chemical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002500,山西证券,Shanxi Securities Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002503,搜于特,Dongguan Souyute Fashion Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002505,大康农业,"HUNAN DAKANG INTERNATIONAL FOOD & AGRICULTURE CO.,LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,002506,协鑫集成,"GCL System Integration Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002507,涪陵榨菜,Chongqing Fuling Zhacai Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002508,老板电器,Hangzhou Robam Appliances Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002509,天广中茂,"TianGuang ZhongMao Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002512,达华智能,Tatwah Smartech Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002517,恺英网络,Taiya Shoes Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002544,杰赛科技,Gci Science & Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002555,三七互娱,"WUHU SANQI INTERACTIVE ENTERTAINMENT NETWORK TECHNOLOGY GROUP CO.,LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002558,巨人网络,"Giant Network Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002572,索菲亚,Suofeiya Home Collection Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002573,清新环境,"Beijing SPC Environment Protection Tech Co., Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002583,海能达,Hytera Communications Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002589,瑞康医药,"Realcan Pharmaceutical Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002594,比亚迪,BYD Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002601,龙蟒佰利,"Lomon Billions Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002602,世纪华通,"ZHEJIANG CENTURY HUATONG GROUP CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,002603,以岭药业,Shijiazhuang Yiling Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002607,中公教育,"Offcn Education Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002624,完美世界,"Perfect World Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002625,光启技术,"Kuang-Chi Technologies Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002635,安洁科技,Suzhou Anjie Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,002640,跨境通,"Global Top E-Commerce Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002665,首航节能,"Beijing Shouhang Resources Saving Co.,Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002670,国盛金控,Guosheng Financial Holding Inc.,SHZ
+2019-08-08,000906,中证800,CSI 800,002672,东江环保,Dongjiang Environmental Company Limited,SHZ
+2019-08-08,000906,中证800,CSI 800,002673,西部证券,"WESTERN SECURITIES CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,002681,奋达科技,"Shenzhen Fenda Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002690,美亚光电,Hefei Meiya Optoelectronic Technology Inc.,SHZ
+2019-08-08,000906,中证800,CSI 800,002699,美盛文化,"Meisheng Cultural & Creative Corp., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002701,奥瑞金,"ORG Packaging Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002707,众信旅游,"UTour Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002709,天赐材料,"Guangzhou Tinci Materials Technology Co., Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002714,牧原股份,"Muyuan Foodstuff Co., Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002736,国信证券,"GUOSEN SECURITIES CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002739,万达电影,"WANDA FILM HOLDING CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,002745,木林森,"MLS Co.,LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002773,康弘药业,"Chengdu Kanghong Pharmaceutical Group Co., Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002797,第一创业,"First Capital Securities Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002807,江阴银行,"Jiangsu Jiangyin Rural Commercial Bank CO.,LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002812,恩捷股份,"Yunnan Energy New Material Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002815,崇达技术,"Suntak Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002818,富森美,"Chengdu Fusen Noble-House Industrial Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002821,凯莱英,"Asymchem Laboratories (Tianjin) Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002831,裕同科技,"ShenZhen YUTO Packaging Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002839,张家港行,"Jiangsu Zhangjiagang Rural Commercial Bank Co., Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,002916,深南电路,"Shennan Circuits Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002920,德赛西威,"Huizhou Desay SV Automotive Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002925,盈趣科技,Xiamen Intretech Inc.,SHZ
+2019-08-08,000906,中证800,CSI 800,002926,华西证券,"Huaxi Securities Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002936,郑州银行,"BANK OF ZHENGZHOU CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002938,鹏鼎控股,"Avary Holding (Shenzhen) Co., Limited",SHZ
+2019-08-08,000906,中证800,CSI 800,002939,长城证券,"CHINA GREAT WALL SECURITIES CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,002941,新疆交建,"Xinjiang Communications Construction Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002945,华林证券,"ChinaLin Securities Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002946,新乳业,"New Hope Dairy Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,002948,青岛银行,"BANK OF QINGDAO CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,300001,特锐德,Qingdao TGOOD Electric Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300002,神州泰岳,Beijing Ultrapower Software Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300003,乐普医疗,Lepu Medical Technology (Beijing) Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300009,安科生物,Anhui Anke Biotechnology (Group) Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300010,立思辰,Beijing Lanxum Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300015,爱尔眼科,Aier Eye Hospital Group Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300017,网宿科技,"Wangsu Science and Technology Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300024,机器人,Siasun Robot & Automation Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300026,红日药业,Tianjin Chase Sun Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300027,华谊兄弟,Huayi Brothers Media Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300033,同花顺,"Hithink Royalflush Information Network Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300055,万邦达,Beijing Water Business Doctor Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300058,蓝色光标,"Bluefocus Data Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300059,东方财富,East Money Information Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300070,碧水源,Beijing Originwater Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300072,三聚环保,Beijing SJ Environmental Protection and New Material Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300088,长信科技,Wuhu Token Science Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300113,顺网科技,Hangzhou Shunwang Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300115,长盈精密,Shenzhen Evenwin Precision Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300122,智飞生物,Chongqing Zhifei Biological Products Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300124,汇川技术,Shenzhen Inovance Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300133,华策影视,Zhejiang Huace Film & TV Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300134,大富科技,Shenzhen Tat Fook Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300136,信维通信,Shenzhen Sunway Communication Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300142,沃森生物,Walvax Biotechnology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300144,宋城演艺,"SONGCHENG PERFORMANCE DEVELOPMENT CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,300159,新研股份,Xinjiang Machinery Research Institute Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300166,东方国信,"Beijing Orient National Communication Science and Technology Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300168,万达信息,Wonders Information Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300182,捷成股份,Beijing Jetsen Technology Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300197,铁汉生态,Shenzhen Techand Ecology & Environment Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300199,翰宇药业,Hybio Pharmaceutical Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300207,欣旺达,Sunwoda Electronic Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300244,迪安诊断,Zhejiang D.A. Diagnostics Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300251,光线传媒,Beijing Enlight Media Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300253,卫宁健康,"Winning Health Technology Group Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300257,开山股份,Zhejiang Kaishan Compressor Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300266,兴源环境,"Xingyuan Environment Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300274,阳光电源,Sungrow Power Supply Co Ltd,SHZ
+2019-08-08,000906,中证800,CSI 800,300287,飞利信,"Beijing Philisense Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300296,利亚德,"Leyard Optoelectronic Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300297,蓝盾股份,"BLUEDON INFORMATION SECURITY TECHNOLOGY Co.,Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300308,中际旭创,"ZHONGJI INNOLIGHT CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,300315,掌趣科技,"OURPALM CO., LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,300316,晶盛机电,"Zhejiang Jingsheng Mechanical & Electrical Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300324,旋极信息,"Beijing Watertek Information Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300376,易事特,"East Group Co.,Ltd",SHZ
+2019-08-08,000906,中证800,CSI 800,300383,光环新网,"Beijing Sinnet Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300408,三环集团,"CHAOZHOU THREE-CIRCLE(GROUP)CO.,LTD",SHZ
+2019-08-08,000906,中证800,CSI 800,300413,芒果超媒,"Mango Excellent Media Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300418,昆仑万维,"Beijing Kunlun Tech Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300433,蓝思科技,"Lens Technology Co., Ltd.",SHZ
+2019-08-08,000906,中证800,CSI 800,300450,先导智能,"WUXI LEAD INTELLIGENT EQUIPMENT CO., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,300459,金科文化,"Zhejiang Jinke Culture Industry Co., LTD.",SHZ
+2019-08-08,000906,中证800,CSI 800,300498,温氏股份,"GUANGDONGWENSFOODSTUFFGROUPCO.,LTD",SHZ
