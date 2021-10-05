@@ -17,15 +17,15 @@ figure_path = 'figure/' + str_time
 
 def plot_confusion_matrix(cm, labels_name, way_to_normalize='index'):
     if way_to_normalize == 'index':
-        cm_float = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]    # 行归一化（一般不会出现分母为0）但测试时要避免
+        cm_float = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
     elif way_to_normalize == 'columns':
-        cm_float = cm.astype('float') / cm.sum(axis=0)[np.newaxis, :]  # 列归一化
+        cm_float = cm.astype('float') / cm.sum(axis=0)[np.newaxis, :]
     plt.imshow(cm_float, interpolation='nearest')
-    plt.title('Normalized by ' + way_to_normalize)    # 图像标题
+    plt.title('Normalized by ' + way_to_normalize)
     plt.colorbar()
     num_local = np.array(range(len(labels_name)))
-    plt.xticks(num_local, labels_name)    # 将标签印在x轴坐标上
-    plt.yticks(num_local, labels_name)    # 将标签印在y轴坐标上
+    plt.xticks(num_local, labels_name)
+    plt.yticks(num_local, labels_name)
     plt.ylabel('True label')
     plt.xlabel('Predicted label')
     for i in range(cm.shape[0]):
@@ -44,8 +44,8 @@ def train_cnn_model(n_steps, n_inputs,  n_label,n_neurons, learning_rate, d_begi
 
     input_layer = tf.reshape(x, [-1, n_steps, n_inputs, 1])
     input_layer = tf.compat.v1.keras.layers.SpatialDropout2D(0.3)(inputs=input_layer, training=tf_is_training)
-    #为了与该模型的数据结构和dropout思路相吻合，需要SpatialDropout2D的原py文件中的line250中return里的
-    # (input_shape[0], 1, 1, input_shape[3])改成(input_shape[0], input_shape[1], 1, input_shape[3])
+
+    # (input_shape[0], 1, 1, input_shape[3]) shoule be changed to (input_shape[0], input_shape[1], 1, input_shape[3])
 
     '''-----Model framework: CNN+2Dense-----'''
     conv1 = tf.layers.conv2d(
@@ -69,7 +69,7 @@ def train_cnn_model(n_steps, n_inputs,  n_label,n_neurons, learning_rate, d_begi
     dense1 = tf.layers.dense(inputs=pool2_flat, units=n_neurons[0], activation=tf.nn.relu)
     dense1 = tf.layers.dropout(dense1, rate=dropout_rate, training=tf_is_training)
     dense2 = tf.layers.dense(inputs=dense1, units=n_neurons[1], activation=tf.nn.relu)
-    logits = tf.layers.dense(inputs=dense2, units=n_label)  # 4分类问题：大涨，小涨，小跌，大跌
+    logits = tf.layers.dense(inputs=dense2, units=n_label)
 
     '''-----Define loss function and optimizer----'''
     x_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(labels=y, logits=logits)
@@ -82,7 +82,7 @@ def train_cnn_model(n_steps, n_inputs,  n_label,n_neurons, learning_rate, d_begi
     correct = tf.nn.in_top_k(prediction, y, 1)
     accuracy = tf.reduce_mean(tf.cast(correct, tf.float32))
 
-    '''-----为了在tensorboard中画出准确率指标-----'''
+    '''-----Draw metrics in tensorboard-----'''
     s_loss_train = tf.summary.scalar('loss_train', loss)
     s_loss_test = tf.summary.scalar('loss_test', loss)
     train_accuracy = tf.summary.scalar('train_accuracy', accuracy)
@@ -120,9 +120,9 @@ def train_cnn_model(n_steps, n_inputs,  n_label,n_neurons, learning_rate, d_begi
             writer.add_summary(summary_train, epoch)
             writer.add_summary(summary_test, epoch)
             summary_test_value = accuracy.eval(feed_dict={x: test_x, y: test_y, tf_is_training: False})
-            print('accuracy of epoch No.', epoch, ':', summary_test_value)  #打印每个epoch结束后模型在验证集的正确率
+            print('accuracy of epoch No.', epoch, ':', summary_test_value)
 
-        with open(report_path, 'w', encoding='utf-8') as f:  #保存分类报告
+        with open(report_path, 'w', encoding='utf-8') as f:
             pred_prob = np.array(prediction.eval(feed_dict={x: test_x, tf_is_training: False}),
                                 dtype=np.float32)
             pred_y = np.argmax(pred_prob, axis=1)
